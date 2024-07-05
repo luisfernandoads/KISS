@@ -1,2 +1,2 @@
 # KISS 👅🤘🎸🎭
-KISS - Kernel for IoT System Security
+KISS - Kernel for IoT Systems Security
