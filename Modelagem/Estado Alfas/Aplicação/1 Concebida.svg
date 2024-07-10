@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="83.877243mm"
+   height="101.77215mm"
+   viewBox="0 0 83.877243 101.77215"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="Modelagem Estado Alfas - Aplicação - 1 Concebida.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.73139029"
+     inkscape:cx="96.391763"
+     inkscape:cy="462.81719"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="1028"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-79.639581,-25.929167)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.576001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-83"
+       width="83.301239"
+       height="101.17928"
+       x="79.927582"
+       y="26.234032"
+       ry="6.3508587"
+       rx="2.8688874" />
+    <rect
+       style="fill:#ff6600;fill-opacity:0.465909;stroke:#000000;stroke-width:0.271487"
+       id="rect1-95"
+       width="83.092682"
+       height="23.619064"
+       x="79.907387"
+       y="26.064911"
+       ry="5.3589473" />
+    <path
+       style="opacity:0.354839;fill:none;fill-opacity:0.465909;stroke:#aa4400;stroke-width:4.89753;stroke-dasharray:none"
+       d="m 146.28933,72.718203 -13.67171,23.519939 -0.82751,1.103187 -0.85245,0.157955 -26.01507,-0.415091 c 0,0 -1.54113,-1.009559 -2.07743,-1.665526 -0.53627,-0.655967 -1.15488,-2.03561 -1.15488,-2.03561 l -0.68773,-2.960934 -0.17193,-5.798441 0.0688,-6.600371 0.73636,-2.363383 0.8798,-1.461097 0.9972,-1.17202 1.58177,-0.678537 1.513,-0.431806 25.01084,-0.05932 0.85357,0.172188 0.7215,1.005642 7.04391,13.316005 5.88007,10.91834"
+       id="path17-0-2"
+       sodipodi:nodetypes="ccccczcccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:12.1809px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.616582"
+       x="145.14816"
+       y="35.62355"
+       id="text17-94"
+       transform="scale(0.83008686,1.2046932)"><tspan
+         sodipodi:role="line"
+         x="145.14816"
+         y="35.62355"
+         id="tspan18-9"
+         style="font-size:12.1809px;text-align:center;text-anchor:middle;stroke-width:0.616582">Aplicação</tspan></text>
+    <rect
+       style="fill:none;stroke:#aa4400;stroke-width:1.122;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3-8"
+       width="71.302116"
+       height="8.7289076"
+       x="84.823822"
+       y="55.000195"
+       rx="5.026957"
+       ry="3.571461" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.44827px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.772195;stroke-dasharray:none;stroke-opacity:1"
+       x="120.23812"
+       y="61.387798"
+       id="text4-7"><tspan
+         sodipodi:role="line"
+         id="tspan4-19"
+         style="font-size:5.44827px;fill:#000000;stroke:none;stroke-width:0.772195"
+         x="120.9464"
+         y="61.387798">1.	Concebida </tspan></text>
+    <rect
+       style="fill:#ff9955;stroke:#aa4400;stroke-width:1.122;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3-1-3"
+       width="71.302116"
+       height="8.7289076"
+       x="85.514923"
+       y="114.52683"
+       rx="5.026957"
+       ry="3.571461" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:5.44827px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.772195;stroke-dasharray:none;stroke-opacity:1"
+       x="120.92922"
+       y="120.91444"
+       id="text4-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan4-1-8"
+         style="font-size:5.44827px;fill:#000000;stroke:none;stroke-width:0.772195"
+         x="120.92922"
+         y="120.91444">1/5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.26895px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.772195;stroke-dasharray:none;stroke-opacity:1"
+       x="127.09526"
+       y="71.166969"
+       id="text8-3"><tspan
+         sodipodi:role="line"
+         style="font-size:3.26895px;stroke-width:0.772195"
+         x="127.09526"
+         y="71.166969"
+         id="tspan334">Definir os requisitos e o </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.26895px;stroke-width:0.772195"
+         x="127.09526"
+         y="75.253159"
+         id="tspan396">design da aplicação.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.26895px;stroke-width:0.772195"
+         x="127.09526"
+         y="79.339348"
+         id="tspan391" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.26895px;stroke-width:0.772195"
+         x="127.09526"
+         y="83.425529"
+         id="tspan395">Desenvolver a aplicação com </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.26895px;stroke-width:0.772195"
+         x="127.09526"
+         y="87.511719"
+         id="tspan397">base nos requisitos e no </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.26895px;stroke-width:0.772195"
+         x="127.09526"
+         y="91.597908"
+         id="tspan398">design definidos.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.26895px;stroke-width:0.772195"
+         x="127.09526"
+         y="95.684097"
+         id="tspan327" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.26895px;stroke-width:0.772195"
+         x="127.09526"
+         y="99.770279"
+         id="tspan394">Realizar revisões regulares </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.26895px;stroke-width:0.772195"
+         x="127.09526"
+         y="103.85647"
+         id="tspan399">para garantir a qualidade </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.26895px;stroke-width:0.772195"
+         x="127.09526"
+         y="107.94266"
+         id="tspan400">do desenvolvimento</tspan></text>
+    <rect
+       style="fill:#a7ac93;stroke:#22241c;stroke-width:0.566282"
+       id="rect8-1"
+       width="4.8390851"
+       height="4.8390851"
+       x="88.019234"
+       y="67.991203" />
+    <rect
+       style="fill:#a7ac93;stroke:#22241c;stroke-width:0.566282"
+       id="rect8-7-3"
+       width="4.8390851"
+       height="4.8390851"
+       x="88.019234"
+       y="83.381676" />
+    <rect
+       style="fill:#a7ac93;stroke:#22241c;stroke-width:0.566282"
+       id="rect8-0-0"
+       width="4.8390851"
+       height="4.8390851"
+       x="88.019234"
+       y="99.301292" />
+  </g>
+</svg>

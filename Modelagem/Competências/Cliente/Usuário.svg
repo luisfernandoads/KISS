@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="179.52559mm"
+   height="110.27151mm"
+   viewBox="0 0 179.52559 110.27151"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="Modelagem Competências CARDS - Cliente - Usuário.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0343421"
+     inkscape:cx="419.59039"
+     inkscape:cy="359.1655"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="1028"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="423.85031"
+       y="211.24152"
+       width="293.96069"
+       height="331.56033"
+       id="rect9" />
+    <rect
+       x="423.85031"
+       y="211.24152"
+       width="294.92749"
+       height="154.94868"
+       id="rect9-2" />
+    <rect
+       x="423.85031"
+       y="211.24152"
+       width="294.92749"
+       height="154.94868"
+       id="rect9-2-7" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.503928,-12.760277)">
+    <rect
+       style="fill:none;stroke:#008000;stroke-width:0.877012;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7-2"
+       width="178.64857"
+       height="109.37267"
+       x="16.942434"
+       y="13.22061"
+       ry="6.8651447"
+       rx="6.1526413" />
+    <rect
+       style="fill:#00ff00;fill-opacity:0.465909;stroke:#000000;stroke-width:0.451732"
+       id="rect1-8-0"
+       width="178.22855"
+       height="30.486757"
+       x="16.900816"
+       y="12.986143"
+       ry="6.9171634" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+       x="113.82822"
+       y="20.429899"
+       id="text17-6-2"><tspan
+         sodipodi:role="line"
+         x="113.82822"
+         y="20.429899"
+         style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:0.499999"
+         id="tspan13-5" /><tspan
+         sodipodi:role="line"
+         x="113.82822"
+         y="32.777122"
+         style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:0.499999"
+         id="tspan1-7">Usuário</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#00ff00;stroke:#008000;stroke-width:1"
+       id="path1-3-4"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="39.792934"
+       sodipodi:cy="32.557858"
+       sodipodi:r1="13.323649"
+       sodipodi:r2="5.2438726"
+       sodipodi:arg1="0.95236833"
+       sodipodi:arg2="1.5806869"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 47.517387,43.413845 -7.776317,-5.612371 -7.885806,5.457459 2.934668,-9.130035 -7.6272,-5.813399 9.590041,-0.0303 3.171937,-9.050338 2.992304,9.111308 9.587565,0.219983 -7.740696,5.661399 z"
+       inkscape:transform-center-x="1.1075665"
+       inkscape:transform-center-y="-0.32683691"
+       transform="translate(-0.9028907,-3.9006823)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#00ff00;stroke:#008000;stroke-width:1"
+       id="path1-7-4-0-2"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="39.792934"
+       sodipodi:cy="32.557858"
+       sodipodi:r1="13.323649"
+       sodipodi:r2="5.2438726"
+       sodipodi:arg1="0.95236833"
+       sodipodi:arg2="1.5806869"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 47.517387,43.413845 -7.776317,-5.612371 -7.885806,5.457459 2.934668,-9.130035 -7.6272,-5.813399 9.590041,-0.0303 3.171937,-9.050338 2.992304,9.111308 9.587565,0.219983 -7.740696,5.661399 z"
+       inkscape:transform-center-x="0.61205642"
+       inkscape:transform-center-y="-0.18061452"
+       transform="matrix(0.55261365,0,0,0.55261365,77.909335,43.116542)" />
+    <rect
+       style="fill:none;stroke:#008000;stroke-width:1.05661"
+       id="rect3-0-6-8-9"
+       width="70.335335"
+       height="21.029261"
+       x="37.883797"
+       y="49.114788" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#0000ff;stroke:#0000ff;stroke-width:1"
+       x="99.739891"
+       y="63.799793"
+       id="text3-6-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan3-9-6-1"
+         style="fill:#000000;stroke:none;stroke-width:1"
+         x="99.739891"
+         y="63.799793">3</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#00ff00;stroke:#008000;stroke-width:1"
+       id="path1-7-8-4-5"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="39.792934"
+       sodipodi:cy="32.557858"
+       sodipodi:r1="13.323649"
+       sodipodi:r2="5.2438726"
+       sodipodi:arg1="0.95236833"
+       sodipodi:arg2="1.5806869"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 47.517387,43.413845 -7.776317,-5.612371 -7.885806,5.457459 2.934668,-9.130035 -7.6272,-5.813399 9.590041,-0.0303 3.171937,-9.050338 2.992304,9.111308 9.587565,0.219983 -7.740696,5.661399 z"
+       inkscape:transform-center-x="0.61205642"
+       inkscape:transform-center-y="-0.18061452"
+       transform="matrix(0.55261365,0,0,0.55261365,77.909335,66.019992)" />
+    <rect
+       style="fill:none;stroke:#008000;stroke-width:1.09992"
+       id="rect3-0-8-9"
+       width="76.433914"
+       height="20.970381"
+       x="31.770386"
+       y="72.897301" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#0000ff;stroke:#0000ff;stroke-width:1"
+       x="99.595192"
+       y="86.422478"
+       id="text3-4-1-9"><tspan
+         sodipodi:role="line"
+         id="tspan3-1-9-4"
+         style="fill:#000000;stroke:none;stroke-width:1"
+         x="99.595192"
+         y="86.422478">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="62.266209"
+       y="105.65112"
+       id="text8-6-1-7"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:1"
+         x="62.266209"
+         y="105.65112"
+         id="tspan44-78-5-9">Pesquisa de </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:1"
+         x="62.266209"
+         y="114.47057"
+         id="tspan79-4">Usuários</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="66.545738"
+       y="81.077995"
+       id="text8-6-1-0-5"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:1"
+         x="66.545738"
+         y="81.077995"
+         id="tspan79-5-6">Design Centrado </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:1"
+         x="66.545738"
+         y="89.897446"
+         id="tspan80-9">no Usuário</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="67.625153"
+       y="57.734974"
+       id="text8-6-1-3-5"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:1"
+         x="67.625153"
+         y="57.734974"
+         id="tspan79-6-4">Engajamento </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;stroke-width:1"
+         x="67.625153"
+         y="66.55442"
+         id="tspan81-9">de Usuários</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#00ff00;stroke:#008000;stroke-width:1"
+       id="path1-7-1-7-4"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="39.792934"
+       sodipodi:cy="32.557858"
+       sodipodi:r1="13.323649"
+       sodipodi:r2="5.2438726"
+       sodipodi:arg1="0.95236833"
+       sodipodi:arg2="1.5806869"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 47.517387,43.413845 -7.776317,-5.612371 -7.885806,5.457459 2.934668,-9.130035 -7.6272,-5.813399 9.590041,-0.0303 3.171937,-9.050338 2.992304,9.111308 9.587565,0.219983 -7.740696,5.661399 z"
+       inkscape:transform-center-x="0.61205642"
+       inkscape:transform-center-y="-0.18061452"
+       transform="matrix(0.55261365,0,0,0.55261365,77.909335,91.654772)" />
+    <rect
+       style="fill:none;stroke:#008000;stroke-width:1.13901"
+       id="rect3-04-8"
+       width="82.173172"
+       height="20.916826"
+       x="26.017929"
+       y="96.677147" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#0000ff;stroke:#0000ff;stroke-width:1"
+       x="99.617592"
+       y="112.21627"
+       id="text3-9-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan3-4-9-8"
+         style="fill:#000000;stroke:none;stroke-width:1"
+         x="99.617592"
+         y="112.21627">1</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.52211332,-0.1793827,-63.303191)"
+       id="text9-7-0"
+       style="font-weight:bold;font-size:15.4027px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;white-space:pre;shape-inside:url(#rect9-2-7);display:inline;fill:#000000;stroke:none;stroke-width:3.77953"><tspan
+         x="465.53544"
+         y="225.25672"
+         id="tspan1">Para garantir que a solução </tspan><tspan
+         x="428.16853"
+         y="244.51009"
+         id="tspan2">desenvolvida atenda às necessidades </tspan><tspan
+         x="456.71742"
+         y="263.76347"
+         id="tspan3">e expectativas dos usuários, é </tspan><tspan
+         x="423.90967"
+         y="283.01685"
+         id="tspan4">essencial ter competências focadas na </tspan><tspan
+         x="427.98369"
+         y="302.27024"
+         id="tspan5">compreensão, envolvimento e design </tspan><tspan
+         x="491.52751"
+         y="321.52363"
+         id="tspan6">centrado no usuário. </tspan></text>
+  </g>
+</svg>

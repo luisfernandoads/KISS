@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="179.52559mm"
+   height="131.79587mm"
+   viewBox="0 0 179.52559 131.79587"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="Modelagem Estado Alfas - Usuários.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4627806"
+     inkscape:cx="405.73412"
+     inkscape:cy="223.20504"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="1028"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15.05542,-17.746739)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.958916;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="178.56667"
+       height="130.81512"
+       x="15.534878"
+       y="18.248032"
+       ry="8.2110529"
+       rx="6.1498203" />
+    <g
+       id="g2"
+       transform="translate(2.8940317,-2.5322777)">
+      <rect
+         style="fill:#00ff00;fill-opacity:0.465909;stroke:#000000;stroke-width:0.451732"
+         id="rect1"
+         width="178.22855"
+         height="30.486757"
+         x="12.55827"
+         y="20.504883"
+         ry="6.9171634" />
+      <path
+         style="fill:none;fill-opacity:0.465909;stroke:#008000;stroke-width:3.4;stroke-dasharray:none"
+         d="m 59.671613,29.548855 -12.71227,12.19098 -0.76944,0.57181 -0.79263,0.0818 -24.18942,-0.21516 c 0,0 -1.43298,-0.52327 -1.93164,-0.86327 -0.49864,-0.34001 -1.07384,-1.05512 -1.07384,-1.05512 l -0.63946,-1.53471 -0.15987,-3.00548 0.064,-3.42114 0.68468,-1.22501 0.81806,-0.75732 0.92722,-0.60749 1.47077,-0.35171 1.40682,-0.22381 23.25566,-0.0308 0.79367,0.0893 0.67087,0.52124 6.54959,6.90203 5.46742,5.65925"
+         id="path17-0"
+         sodipodi:nodetypes="ccccczcccccccccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+         x="101.47721"
+         y="39.705643"
+         id="text17"><tspan
+           sodipodi:role="line"
+           x="101.47721"
+           y="39.705643"
+           id="tspan18"
+           style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:0.499999">Usuário</tspan></text>
+    </g>
+    <g
+       id="g4"
+       transform="translate(0.3799608,3.4366626)">
+      <rect
+         style="fill:none;stroke:#008000;stroke-width:1.20218;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3"
+         width="61.838631"
+         height="11.554824"
+         x="21.263697"
+         y="51.831902"
+         rx="4.3597598"
+         ry="4.727694" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         x="51.8764"
+         y="60.229309"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="font-size:7.05556px;fill:#000000;stroke:none;stroke-width:1"
+           x="51.8764"
+           y="60.229309">1.Reconhecido</tspan></text>
+    </g>
+    <g
+       id="g5"
+       transform="translate(0.37294176,6.0642081)">
+      <rect
+         style="fill:none;stroke:#008000;stroke-width:1.20218;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3-8"
+         width="61.838631"
+         height="11.554824"
+         x="21.270716"
+         y="67.570518"
+         rx="4.3597598"
+         ry="4.727694" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         x="51.883419"
+         y="75.967926"
+         id="text4-1"><tspan
+           sodipodi:role="line"
+           id="tspan4-3"
+           style="font-size:7.05556px;fill:#000000;stroke:none;stroke-width:1"
+           x="51.883419"
+           y="75.967926">2.Envolvido</tspan></text>
+    </g>
+    <g
+       id="g6"
+       transform="translate(0.22418954,9.9198191)">
+      <rect
+         style="fill:none;stroke:#008000;stroke-width:1.20218;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3-6"
+         width="61.838631"
+         height="11.554824"
+         x="21.419468"
+         y="82.08107"
+         rx="4.3597598"
+         ry="4.727694" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         x="52.032169"
+         y="90.478477"
+         id="text4-8"><tspan
+           sodipodi:role="line"
+           id="tspan4-6"
+           style="font-size:7.05556px;fill:#000000;stroke:none;stroke-width:1"
+           x="52.032169"
+           y="90.478477">3.Participante</tspan></text>
+    </g>
+    <g
+       id="g7"
+       transform="translate(0.12409952,12.675561)">
+      <rect
+         style="fill:none;stroke:#008000;stroke-width:1.20218;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3-64"
+         width="61.838631"
+         height="11.554824"
+         x="21.519558"
+         y="97.69149"
+         rx="4.3597598"
+         ry="4.727694" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         x="52.132263"
+         y="106.0889"
+         id="text4-3"><tspan
+           sodipodi:role="line"
+           id="tspan4-8"
+           style="font-size:7.05556px;fill:#000000;stroke:none;stroke-width:1"
+           x="52.132263"
+           y="106.0889">4.Satisfeito</tspan></text>
+    </g>
+    <g
+       id="g8"
+       transform="translate(0.54263094,13.927527)">
+      <rect
+         style="fill:none;stroke:#008000;stroke-width:1.20218;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3-3"
+         width="61.838631"
+         height="11.554824"
+         x="21.101027"
+         y="114.80569"
+         rx="4.3597598"
+         ry="4.727694" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         x="51.71373"
+         y="123.20311"
+         id="text4-7"><tspan
+           sodipodi:role="line"
+           id="tspan4-2"
+           style="font-size:7.05556px;fill:#000000;stroke:none;stroke-width:1"
+           x="51.71373"
+           y="123.20311">5.Defensor</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="137.46651"
+       y="59.508526"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="font-size:4.23333px;stroke-width:1"
+         x="137.46651"
+         y="59.508526">Identificação dos usuários finais </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:1"
+         x="137.46651"
+         y="64.800186"
+         id="tspan9">que acessarão e utilizarão os dados.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="137.47072"
+       y="77.633202"
+       id="text8-3"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:1"
+         x="137.47072"
+         y="77.633202"
+         id="tspan9-8">Os usuários estão cientes do sistema e </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:1"
+         x="137.47072"
+         y="82.924866"
+         id="tspan10">foram consultados sobre suas necessidades.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="137.98755"
+       y="95.952072"
+       id="text8-4"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:1"
+         x="137.98755"
+         y="95.952072"
+         id="tspan9-6">Os usuários participam ativamente do </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:1"
+         x="137.98755"
+         y="101.24374"
+         id="tspan12">desenvolvimento, fornecendo feedback.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.09988px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.968476;stroke-dasharray:none;stroke-opacity:1"
+       x="143.0029"
+       y="111.7867"
+       id="text8-1"
+       transform="scale(0.96847652,1.0325496)"><tspan
+         sodipodi:role="line"
+         style="font-size:4.09988px;stroke-width:0.968476"
+         x="143.0029"
+         y="111.7867"
+         id="tspan9-4">Os usuários estão satisfeitos com a solução </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.09988px;stroke-width:0.968476"
+         x="143.0029"
+         y="116.91154"
+         id="tspan13">desenvolvida e ela atende às suas necessidades</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="136.55109"
+       y="133.32271"
+       id="text8-6"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:1"
+         x="136.55109"
+         y="133.32271"
+         id="tspan9-80">Os usuários promovem e </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:1"
+         x="136.55109"
+         y="138.61436"
+         id="tspan14">apoiam a utilização do sistema.</tspan></text>
+  </g>
+</svg>

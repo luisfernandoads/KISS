@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="171.20374mm"
+   height="94.715187mm"
+   viewBox="0 0 171.20374 94.715187"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="Modelagem Competências CARDS - Esforço - Programadores.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0343421"
+     inkscape:cx="364.9663"
+     inkscape:cy="25.620151"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="1028"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g12-6" />
+  <defs
+     id="defs1">
+    <rect
+       x="423.85031"
+       y="211.24152"
+       width="293.96069"
+       height="331.56033"
+       id="rect9" />
+    <rect
+       x="423.85031"
+       y="211.24152"
+       width="294.92749"
+       height="154.94868"
+       id="rect9-2" />
+    <rect
+       x="423.85031"
+       y="211.24152"
+       width="293.96069"
+       height="331.56033"
+       id="rect9-6" />
+    <rect
+       x="423.85031"
+       y="211.24152"
+       width="293.96069"
+       height="331.56033"
+       id="rect9-1" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.218777,-199.96303)">
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.79367;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-7"
+       width="170.41006"
+       height="93.903587"
+       x="18.615612"
+       y="200.37779"
+       ry="5.8941755"
+       rx="5.8689079" />
+    <rect
+       style="fill:#00ffff;fill-opacity:0.465909;stroke:#000000;stroke-width:0.37109"
+       id="rect1-2"
+       width="170.03133"
+       height="21.565393"
+       x="18.564995"
+       y="200.14857"
+       ry="4.8929882" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.30781px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.471148"
+       x="107.95407"
+       y="216.94202"
+       id="text17-6"
+       transform="scale(1.012101,0.98804368)"><tspan
+         sodipodi:role="line"
+         x="109.16409"
+         y="216.94202"
+         id="tspan18-4"
+         style="font-size:9.30781px;text-align:center;text-anchor:middle;stroke-width:0.471148">Programadores  </tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#00ffff;stroke:#0000ff;stroke-width:1"
+       id="path1-81"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="39.792934"
+       sodipodi:cy="32.557858"
+       sodipodi:r1="13.323649"
+       sodipodi:r2="5.2438726"
+       sodipodi:arg1="0.95236833"
+       sodipodi:arg2="1.5806869"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 47.517387,43.413845 -7.776317,-5.612371 -7.885806,5.457459 2.934668,-9.130035 -7.6272,-5.813399 9.590041,-0.0303 3.171937,-9.050338 2.992304,9.111308 9.587565,0.219983 -7.740696,5.661399 z"
+       inkscape:transform-center-x="0.79789388"
+       inkscape:transform-center-y="-0.22985738"
+       transform="matrix(0.72040277,0,0,0.70327898,7.6058419,188.47969)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#00ffff;stroke:#0000ff;stroke-width:1"
+       id="path1-7-73"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="39.792934"
+       sodipodi:cy="32.557858"
+       sodipodi:r1="13.323649"
+       sodipodi:r2="5.2438726"
+       sodipodi:arg1="0.95236833"
+       sodipodi:arg2="1.5806869"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 47.517387,43.413845 -7.776317,-5.612371 -7.885806,5.457459 2.934668,-9.130035 -7.6272,-5.813399 9.590041,-0.0303 3.171937,-9.050338 2.992304,9.111308 9.587565,0.219983 -7.740696,5.661399 z"
+       inkscape:transform-center-x="0.58371848"
+       inkscape:transform-center-y="-0.16815826"
+       transform="matrix(0.56492703,0,0,0.42780487,74.711688,230.19013)" />
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.817604"
+       id="rect3-0-6-9-4"
+       width="70.367943"
+       height="12.585756"
+       x="35.420166"
+       y="237.26636" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.27667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#0000ff;stroke:#0000ff;stroke-width:0.889606"
+       x="84.429688"
+       y="282.88867"
+       id="text3-8"
+       transform="scale(1.149141,0.87021523)"><tspan
+         sodipodi:role="line"
+         id="tspan3-45"
+         style="fill:#000000;stroke:none;stroke-width:0.889606"
+         x="84.429688"
+         y="282.88867">4</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#00ffff;stroke:#0000ff;stroke-width:1"
+       id="path1-7-7-1"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="39.792934"
+       sodipodi:cy="32.557858"
+       sodipodi:r1="13.323649"
+       sodipodi:r2="5.2438726"
+       sodipodi:arg1="0.95236833"
+       sodipodi:arg2="1.5806869"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 47.517387,43.413845 -7.776317,-5.612371 -7.885806,5.457459 2.934668,-9.130035 -7.6272,-5.813399 9.590041,-0.0303 3.171937,-9.050338 2.992304,9.111308 9.587565,0.219983 -7.740696,5.661399 z"
+       inkscape:transform-center-x="0.58371932"
+       inkscape:transform-center-y="-0.16815827"
+       transform="matrix(0.56492703,0,0,0.42780487,74.694888,216.02104)" />
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.782656"
+       id="rect3-0-6-9-2-7"
+       width="64.30442"
+       height="12.620287"
+       x="41.478485"
+       y="223.11559" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.27667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#0000ff;stroke:#0000ff;stroke-width:0.889606"
+       x="84.41507"
+       y="266.60638"
+       id="text3-90-1"
+       transform="scale(1.149141,0.87021523)"><tspan
+         sodipodi:role="line"
+         id="tspan3-6-7"
+         style="fill:#000000;stroke:none;stroke-width:0.889606"
+         x="84.41507"
+         y="266.60638">5</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#00ffff;stroke:#0000ff;stroke-width:1"
+       id="path1-7-4-4"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="39.792934"
+       sodipodi:cy="32.557858"
+       sodipodi:r1="13.323649"
+       sodipodi:r2="5.2438726"
+       sodipodi:arg1="0.95236833"
+       sodipodi:arg2="1.5806869"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 47.517387,43.413845 -7.776317,-5.612371 -7.885806,5.457459 2.934668,-9.130035 -7.6272,-5.813399 9.590041,-0.0303 3.171937,-9.050338 2.992304,9.111308 9.587565,0.219983 -7.740696,5.661399 z"
+       inkscape:transform-center-x="0.58371848"
+       inkscape:transform-center-y="-0.16815805"
+       transform="matrix(0.56492703,0,0,0.42780487,74.711688,244.35464)" />
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.842622"
+       id="rect3-0-6-97"
+       width="74.800484"
+       height="12.575626"
+       x="30.965055"
+       y="251.38797" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.27667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#0000ff;stroke:#0000ff;stroke-width:0.889606"
+       x="84.435822"
+       y="299.19818"
+       id="text3-6-1"
+       transform="scale(1.149141,0.87021523)"><tspan
+         sodipodi:role="line"
+         id="tspan3-9-9"
+         style="fill:#000000;stroke:none;stroke-width:0.889606"
+         x="84.435822"
+         y="299.19818">3</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#00ffff;stroke:#0000ff;stroke-width:1"
+       id="path1-7-8-6"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="39.792934"
+       sodipodi:cy="32.557858"
+       sodipodi:r1="13.323649"
+       sodipodi:r2="5.2438726"
+       sodipodi:arg1="0.95236833"
+       sodipodi:arg2="1.5806869"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 47.517387,43.413845 -7.776317,-5.612371 -7.885806,5.457459 2.934668,-9.130035 -7.6272,-5.813399 9.590041,-0.0303 3.171937,-9.050338 2.992304,9.111308 9.587565,0.219983 -7.740696,5.661399 z"
+       inkscape:transform-center-x="0.58371848"
+       inkscape:transform-center-y="-0.16815766"
+       transform="matrix(0.56492703,0,0,0.42780487,74.711688,257.57909)" />
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.871629"
+       id="rect3-0-4"
+       width="80.399071"
+       height="12.519311"
+       x="25.343594"
+       y="265.57486" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.27667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#0000ff;stroke:#0000ff;stroke-width:0.889606"
+       x="84.307098"
+       y="314.14526"
+       id="text3-4-5"
+       transform="scale(1.149141,0.87021523)"><tspan
+         sodipodi:role="line"
+         id="tspan3-1-1"
+         style="fill:#000000;stroke:none;stroke-width:0.889606"
+         x="84.307098"
+         y="314.14526">2</tspan></text>
+    <g
+       id="g12-6"
+       transform="matrix(1.0719104,0,0,0.83149491,-7.6754331,190.79212)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:6.38149px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.904462;stroke-dasharray:none;stroke-opacity:1"
+         x="58.088863"
+         y="118.43228"
+         id="text8-6-09"
+         transform="scale(1.0544396,0.94837105)"><tspan
+           sodipodi:role="line"
+           style="font-size:6.38149px;stroke-width:0.904462"
+           x="58.088863"
+           y="118.43228"
+           id="tspan1-07">Formação </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6.38149px;stroke-width:0.904462"
+           x="58.088863"
+           y="126.40914"
+           id="tspan22">de Equipes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:6.38149px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.904462;stroke-dasharray:none;stroke-opacity:1"
+         x="61.956146"
+         y="100.26083"
+         id="text8-6-3-3"
+         transform="scale(1.0544396,0.94837105)"><tspan
+           sodipodi:role="line"
+           style="font-size:6.38149px;stroke-width:0.904462"
+           x="61.956146"
+           y="100.26083"
+           id="tspan1-1-6">Treinamento </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6.38149px;stroke-width:0.904462"
+           x="61.956146"
+           y="108.23769"
+           id="tspan23">de Equipes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:6.38149px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.904462;stroke-dasharray:none;stroke-opacity:1"
+         x="62.681313"
+         y="83.127342"
+         id="text8-6-30-7"
+         transform="scale(1.0544396,0.94837105)"><tspan
+           sodipodi:role="line"
+           style="font-size:6.38149px;stroke-width:0.904462"
+           x="62.681313"
+           y="83.127342"
+           id="tspan1-0-9">Engajamento </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6.38149px;stroke-width:0.904462"
+           x="62.681313"
+           y="91.104202"
+           id="tspan24">de Equipes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:6.38149px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.904462;stroke-dasharray:none;stroke-opacity:1"
+         x="66.26075"
+         y="65.040184"
+         id="text8-6-0-89"
+         transform="scale(1.0544396,0.94837105)"><tspan
+           sodipodi:role="line"
+           style="font-size:6.38149px;stroke-width:0.904462"
+           x="66.26075"
+           y="65.040184"
+           id="tspan1-4-75">Coordenação </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6.38149px;stroke-width:0.904462"
+           x="66.26075"
+           y="73.017044"
+           id="tspan25">de Equipes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:6.38149px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.904462;stroke-dasharray:none;stroke-opacity:1"
+         x="67.096703"
+         y="47.192799"
+         id="text8-6-6-8"
+         transform="scale(1.0544396,0.94837105)"><tspan
+           sodipodi:role="line"
+           style="font-size:6.38149px;stroke-width:0.904462"
+           x="67.096703"
+           y="47.192799"
+           id="tspan1-8-4">Avaliação de </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:6.38149px;stroke-width:0.904462"
+           x="67.096703"
+           y="55.169662"
+           id="tspan26">Desempenho</tspan></text>
+      <path
+         sodipodi:type="star"
+         style="fill:#00ffff;stroke:#0000ff;stroke-width:1"
+         id="path1-7-1-6"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="39.792934"
+         sodipodi:cy="32.557858"
+         sodipodi:r1="13.323649"
+         sodipodi:r2="5.2438726"
+         sodipodi:arg1="0.95236833"
+         sodipodi:arg2="1.5806869"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 47.517387,43.413845 -7.776317,-5.612371 -7.885806,5.457459 2.934668,-9.130035 -7.6272,-5.813399 9.590041,-0.0303 3.171937,-9.050338 2.992304,9.111308 9.587565,0.219983 -7.740696,5.661399 z"
+         inkscape:transform-center-x="0.58371923"
+         inkscape:transform-center-y="-0.16815764"
+         transform="matrix(0.52702822,0,0,0.51450089,76.860084,97.783683)" />
+      <rect
+         style="opacity:1;fill:none;stroke:#0000ff;stroke-width:0.942298"
+         id="rect3-9"
+         width="78.488663"
+         height="14.987798"
+         x="27.311188"
+         y="107.01819" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:6.64844px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#0000ff;stroke:#0000ff;stroke-width:0.942298"
+         x="96.396759"
+         y="118.3422"
+         id="text3-9-8"
+         transform="scale(1.012101,0.98804368)"><tspan
+           sodipodi:role="line"
+           id="tspan3-4-4"
+           style="fill:#000000;stroke:none;stroke-width:0.942298"
+           x="96.396759"
+           y="118.3422">1</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.25840303,0,0,0.26956548,-0.31043715,166.90384)"
+       id="text9-6"
+       style="font-weight:bold;font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;white-space:pre;shape-inside:url(#rect9-1);display:inline;fill:#000000;stroke:none;stroke-width:3.77953"><tspan
+         x="433.89121"
+         y="228.22655"
+         id="tspan1">A equipe de programadores é </tspan><tspan
+         x="496.39662"
+         y="251.55993"
+         id="tspan2">essencial para o </tspan><tspan
+         x="482.44328"
+         y="274.8933"
+         id="tspan3">desenvolvimento e </tspan><tspan
+         x="448.50722"
+         y="298.22668"
+         id="tspan4">manutenção do sistema. É </tspan><tspan
+         x="424.57652"
+         y="321.56005"
+         id="tspan5">importante que a equipe esteja </tspan><tspan
+         x="460.3139"
+         y="344.89343"
+         id="tspan6">bem formada, treinada, </tspan><tspan
+         x="438.43655"
+         y="368.2268"
+         id="tspan7">engajada e coordenada para </tspan><tspan
+         x="431.73518"
+         y="391.56017"
+         id="tspan8">garantir um desenvolvimento </tspan><tspan
+         x="436.17787"
+         y="414.89355"
+         id="tspan9">eficiente e de alta qualidade.</tspan></text>
+  </g>
+</svg>

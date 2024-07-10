@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="179.52559mm"
+   height="131.79587mm"
+   viewBox="0 0 179.52559 131.79587"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="Modelagem Estado Alfas - Trabalho.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4627806"
+     inkscape:cx="405.73412"
+     inkscape:cy="222.52141"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="1028"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15.05542,-17.746739)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.958916;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="178.56667"
+       height="130.81512"
+       x="15.534878"
+       y="18.248032"
+       ry="8.2110529"
+       rx="6.1498203" />
+    <rect
+       style="fill:#00ffff;fill-opacity:0.465909;stroke:#000000;stroke-width:0.451732"
+       id="rect1"
+       width="178.22855"
+       height="30.486757"
+       x="15.452302"
+       y="17.972605"
+       ry="6.9171634" />
+    <path
+       style="fill:none;fill-opacity:0.465909;stroke:#0000ff;stroke-width:3.4;stroke-dasharray:none"
+       d="m 62.565645,27.016577 -12.71227,12.19098 -0.76944,0.57181 -0.79263,0.0818 -24.18942,-0.21516 c 0,0 -1.43298,-0.52327 -1.93164,-0.86327 -0.49864,-0.34001 -1.07384,-1.05512 -1.07384,-1.05512 l -0.63946,-1.53471 -0.15987,-3.00548 0.064,-3.42114 0.68468,-1.22501 0.81806,-0.75732 0.92722,-0.60749 1.47077,-0.35171 1.40682,-0.22381 23.25566,-0.0308 0.79367,0.0893 0.67087,0.52124 6.54959,6.90203 5.46742,5.65925"
+       id="path17-0"
+       sodipodi:nodetypes="ccccczcccccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999"
+       x="112.74146"
+       y="37.173367"
+       id="text17"><tspan
+         sodipodi:role="line"
+         x="112.74146"
+         y="37.173367"
+         id="tspan18"
+         style="font-size:9.87778px;text-align:center;text-anchor:middle;stroke-width:0.499999">Trabalho</tspan></text>
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:1.20218;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3"
+       width="61.838631"
+       height="11.554824"
+       x="21.643658"
+       y="55.268562"
+       rx="4.3597598"
+       ry="4.727694" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="52.256359"
+       y="63.66597"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-size:7.05556px;fill:#000000;stroke:none;stroke-width:1"
+         x="52.256359"
+         y="63.66597">1.	Iniciado</tspan></text>
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:1.20218;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3-8"
+       width="61.838631"
+       height="11.554824"
+       x="21.643658"
+       y="73.634727"
+       rx="4.3597598"
+       ry="4.727694" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="52.256359"
+       y="82.032135"
+       id="text4-1"><tspan
+         sodipodi:role="line"
+         id="tspan4-3"
+         style="font-size:7.05556px;fill:#000000;stroke:none;stroke-width:1"
+         x="52.256359"
+         y="82.032135">2.	Executado</tspan></text>
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:1.20218;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3-6"
+       width="61.838631"
+       height="11.554824"
+       x="21.643658"
+       y="92.000893"
+       rx="4.3597598"
+       ry="4.727694" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="52.256359"
+       y="100.3983"
+       id="text4-8"><tspan
+         sodipodi:role="line"
+         id="tspan4-6"
+         style="font-size:7.05556px;fill:#000000;stroke:none;stroke-width:1"
+         x="52.256359"
+         y="100.3983">3.	Concluído</tspan></text>
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:1.20218;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3-64"
+       width="61.838631"
+       height="11.554824"
+       x="21.643658"
+       y="110.36705"
+       rx="4.3597598"
+       ry="4.727694" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="52.256363"
+       y="118.76446"
+       id="text4-3"><tspan
+         sodipodi:role="line"
+         id="tspan4-8"
+         style="font-size:7.05556px;fill:#000000;stroke:none;stroke-width:1"
+         x="52.256363"
+         y="118.76446">4.	Revisado</tspan></text>
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:1.20218;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3-3"
+       width="61.838631"
+       height="11.554824"
+       x="21.643658"
+       y="128.73322"
+       rx="4.3597598"
+       ry="4.727694" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="52.256359"
+       y="137.13063"
+       id="text4-7"><tspan
+         sodipodi:role="line"
+         id="tspan4-2"
+         style="font-size:7.05556px;fill:#000000;stroke:none;stroke-width:1"
+         x="52.256359"
+         y="137.13063">5.	Otimizado</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="137.46651"
+       y="59.508526"
+       id="text8"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:1"
+         x="137.46651"
+         y="59.508526"
+         id="tspan34">As atividades de trabalho </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:1"
+         x="137.46651"
+         y="64.800186"
+         id="tspan1">foram iniciadas.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="137.47072"
+       y="77.633202"
+       id="text8-3"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:1"
+         x="137.47072"
+         y="77.633202"
+         id="tspan35">As atividades de trabalho estão sendo </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:1"
+         x="137.47072"
+         y="82.924866"
+         id="tspan2">executadas conforme planejado.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="137.98755"
+       y="95.952072"
+       id="text8-4"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:1"
+         x="137.98755"
+         y="95.952072"
+         id="tspan36">As atividades de trabalho foram </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:1"
+         x="137.98755"
+         y="101.24374"
+         id="tspan3">concluídas com sucesso.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.09988px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.968476;stroke-dasharray:none;stroke-opacity:1"
+       x="143.0029"
+       y="111.7867"
+       id="text8-1"
+       transform="scale(0.96847652,1.0325496)"><tspan
+         sodipodi:role="line"
+         style="font-size:4.09988px;stroke-width:0.968476"
+         x="143.0029"
+         y="111.7867"
+         id="tspan37">As atividades de trabalho são </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.09988px;stroke-width:0.968476"
+         x="143.0029"
+         y="116.91154"
+         id="tspan5">revisadas para identificar melhorias.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-orientation:sideways;text-anchor:middle;fill:#000000;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       x="136.55109"
+       y="133.32271"
+       id="text8-6"><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:1"
+         x="136.55109"
+         y="133.32271"
+         id="tspan38">As práticas de trabalho são </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.23333px;stroke-width:1"
+         x="136.55109"
+         y="138.61436"
+         id="tspan7">otimizadas para melhor desempenho.</tspan></text>
+  </g>
+</svg>
